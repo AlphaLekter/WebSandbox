@@ -1,1 +1,1 @@
-// setTimeout(() => {alert("Ciao Mondo!")}, 3000);
+console.log("Sandbox!")
